@@ -1,0 +1,26 @@
+{
+  "name": "nodebasics",
+  "version": "1.0.0",
+  "description": "Some basics of Node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main",
+    "dev": "nodemon main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Yajnesh-A/NodeJsBasics.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "http"
+  ],
+  "author": "Yajnesh A P",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}
